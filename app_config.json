@@ -1,0 +1,18 @@
+{
+  "app_name": "FCTool",
+  "version_name": "1.4",
+  "support_telegram": "https://t.me/AriZune_support",
+  "ui": {
+    "attack_has_cards": false,
+    "cards_status": "به‌زودی",
+    "fixed_demon_background": true
+  },
+  "login_flow": [
+    "loading",
+    "subscription_code",
+    "fctool_license",
+    "home"
+  ],
+  "subscription_code_mode": "fixed_demo",
+  "subscription_code": "GOD"
+}

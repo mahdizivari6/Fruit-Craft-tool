@@ -1,0 +1,15 @@
+FCTool/
+├── app/
+│   ├── build.gradle
+│   └── src/main/
+│       ├── AndroidManifest.xml
+│       ├── java/com/fctool/app/MainActivity.kt
+│       ├── assets/
+│       │   ├── index.html
+│       │   └── demon_background.png
+│       └── res/values/styles.xml
+├── build.gradle
+├── settings.gradle
+├── README.md
+├── CHANGELOG.md
+└── PROJECT_MAP.txt

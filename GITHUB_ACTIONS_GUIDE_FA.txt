@@ -1,0 +1,7 @@
+FCTool - GitHub Actions
+1) Create a new GitHub repository.
+2) Upload all files/folders in this project.
+3) Open Actions.
+4) Select "Build FCTool APK".
+5) Press "Run workflow" (or push to main/master).
+6) After completion, download artifact "FCTool-debug-apk".
